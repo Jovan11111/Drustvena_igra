@@ -4,6 +4,7 @@ from tacanodg import broj_todg
 from netacanodg1 import broj_nodg1
 from netacanodg2 import broj_nodg2
 # importujem pitanja i odgovore
+# ovo je test
 
 print("Pritisni Enter da baciš kockicu")
 
